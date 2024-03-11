@@ -6,12 +6,17 @@
     },
     {
         "email": "kaushik@dal.ca",
-        "firstName": "Kaushik",
+        "firstName": "KCD",
         "id": "2"
     },
     {
         "email": "Kaushik@dal.ca",
         "firstName": "Kaushik Chanabhai",
         "id": "3"
+    },
+    {
+        "email": "KCD@dal.ca",
+        "firstName": "Kaushik Dhola",
+        "id": "4"
     }
 ]
